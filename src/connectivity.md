@@ -34,6 +34,7 @@ Apache ActiveMQ is designed to support a large number if [Cross Language Clients
     *   [ActiveMQ C++ Clients](activemq-c-clients)
     *   [C Integration](c-integration)
     *   [Delphi and FreePascal](delphi-and-freepascal)
+*   [JMS 2.0](jms-20-support)
 *   [JMS to JMS Bridge](jms-to-jms-bridge)
 *   [Protocols](protocols)
     *   [AMQP](amqp)
